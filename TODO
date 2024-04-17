@@ -1,0 +1,10 @@
+- install software on server
+- create postgresql db
+- install virtualenv
+- create group and user
+- create environment
+- get project from git
+- install packages (and postgresql)
+- install and set up gunicorn
+- install and set up supervisor
+- set up nginx
